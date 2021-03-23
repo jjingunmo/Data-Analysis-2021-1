@@ -1,6 +1,7 @@
 # bsh add
+samples/
 kakaomapkey.txt
-
+chromedriver.exe
 # Editors
 .vscode/
 .idea/
